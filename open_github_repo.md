@@ -1,0 +1,1 @@
+Use `gh` to determine the repo URL on Github.com, then open the URL in a browser
