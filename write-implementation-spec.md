@@ -1,0 +1,1 @@
+Write out the complete implementation plan you've presented to `<project-root>/specs/$ARGUMENTS-implementation-plan.md
